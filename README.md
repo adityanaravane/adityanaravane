@@ -4,8 +4,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/adityanaravane"><img src="https://img.shields.io/github/followers/adityanaravane?label=Follow&style=social" alt="GitHub followers"></a>
+  <a href="https://drive.google.com/file/d/1BCIycbL-W2MVS1ztkXJ7vNF-gVSpI3cW/view"><img src="https://img.shields.io/badge/Resume-View%20PDF-4285F4?style=flat&logo=googledrive&logoColor=white" alt="Resume"></a>
   <a href="https://github.com/4H-ALARM"><img src="https://img.shields.io/badge/FRC-Team%202079%20ALARM-c8102e?style=flat" alt="FRC Team 2079"></a>
+  <a href="https://github.com/adityanaravane"><img src="https://img.shields.io/github/followers/adityanaravane?label=Follow&style=social" alt="GitHub followers"></a>
 </p>
 
 ---
@@ -17,6 +18,7 @@
 - Co-founder of **STEM4Ward**, a nonprofit running free CAD and Python classes at public libraries
 - Founder of my school's **Science Olympiad** program
 - Currently designing a split ergo keyboard in Ergogen with rotary encoders and an OLED
+- 📄 Want the full picture? **[Check out my resume](https://drive.google.com/file/d/1BCIycbL-W2MVS1ztkXJ7vNF-gVSpI3cW/view)**
 
 ### 📌 Featured projects
 
@@ -36,7 +38,6 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch">
   <img src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white" alt="Arduino">
-  <img src="https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=flat&logo=nvidia&logoColor=white" alt="NVIDIA Jetson">
   <img src="https://img.shields.io/badge/KiCad-314CB0?style=flat&logo=kicad&logoColor=white" alt="KiCad">
   <img src="https://img.shields.io/badge/Fusion%20360-FF6F00?style=flat&logo=autodesk&logoColor=white" alt="Fusion 360">
   <img src="https://img.shields.io/badge/Onshape-0A6CFF?style=flat&logoColor=white" alt="Onshape">
