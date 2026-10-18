@@ -12,7 +12,7 @@
 
 ### 🤖 About me
 
-- **Programming Co-Lead & Electrical Lead** on [FRC Team 2079 – ALARM](https://github.com/4H-ALARM), where I write Java robot code (state machines, field localization, elevator/turret/launcher control) and wired our 2026 robot, DeadShot
+- **Build Captain, Programming Co-Lead & Electrical Lead** on [FRC Team 2079 – ALARM](https://github.com/4H-ALARM), where I write Java robot code (state machines, field localization, elevator/turret/launcher control) and wired our 2026 robot, DeadShot
 - Building **PheroNose**, a sub-$100 electronic nose that detects diamondback moth pheromones using a custom PCB, five gas sensors, and a PyTorch classifier (patent pending)
 - Co-founder of **STEM4Ward**, a nonprofit running free CAD and Python classes at public libraries
 - Founder of my school's **Science Olympiad** program
